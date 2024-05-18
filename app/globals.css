@@ -6,16 +6,17 @@
 }
 body {
   background-color: #a91923;
-  background-image: url(../img/baixados.jpg);
+  background-image: url(../img/Crochet.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
 }
 .container {
   background-color: rgba(255, 255, 255, 0.1);
   width: min(90%, 500px);
   position: absolute;
   transform: translate(-50%, -50%);
-  top: 50%;
+  top: 40%;
   left: 50%;
   padding: 5em 2em;
   border-radius: 0.5em;
@@ -134,18 +135,18 @@ button {
 
 .tasks-container {
   background-color: rgba(255, 255, 255, 0.1);
-  width: min(90%, 500px);
+  width: min(90%, 600px);
   position: absolute;
   transform: translate(-50%, -50%);
-  top: 50%;
+  top: 45%;
   left: 50%;
-  padding: 4em 2em;
+  padding: 4em 3em;
   border-radius: 0.5em;
   margin-top: 20em;
   display: flex;
   flex-direction: column;
   overflow-y: auto;
-  max-height: 30vh;
+  max-height: 40vh;
 }
 
 .edit-button,

@@ -1,4 +1,3 @@
-
 import '../app/create.css';
 import Head from "next/head";
 import { useRouter } from "next/router";
@@ -58,11 +57,7 @@ const Create = () => {
               onChange={onChange}
             />
           </div>
-          <button
-            className="btn-submit"
-            type="button"
-            onClick={handleCreate}
-          >
+          <button className="btn-submit" type="button" onClick={handleCreate}>
             Criar Tarefa
           </button>
         </form>

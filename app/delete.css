@@ -9,6 +9,7 @@ body {
     background-image: url(../img/baixados.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    height: 47em;
 }
 .container-delete {
     background-color: rgba(255, 255, 255, 0.1);
