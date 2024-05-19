@@ -35,4 +35,10 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
- Meu pomodoro https://pomodoro-am.vercel.app/
+## Meu projeto Pomodoro com Next.js
+
+Meu pomodoro https://pomodoro-am.vercel.app/
+
+![alt text](<Captura de tela 2024-05-19 121745.png>)
+
+Site baseado no Pomodoro.io, Não esta completo 100%, mas ja e posivel ver o temporizador, e anotar suas tarefas!!
