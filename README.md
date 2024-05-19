@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Meu pomodoro https://pomodoro-am.vercel.app/
 
-(./img/Pomodoro.png)
+![alt text](Pomodoro-1.png)
 
 Site baseado no Pomodoro.io, Não esta completo 100%, mas ja e posivel ver o temporizador, e anotar suas tarefas!!
 
