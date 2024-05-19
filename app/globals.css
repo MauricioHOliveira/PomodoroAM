@@ -5,11 +5,11 @@
   font-family: "Poppins", sans-serif;
 }
 body {
-  background-color: #a91923;
-  background-image: url(../img/Crochet.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
+  background-color: #10002b;
+    background-image: url(../img/baixados.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 .container {
   background-color: rgba(255, 255, 255, 0.1);

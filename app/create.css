@@ -5,11 +5,11 @@
     font-family: "Poppins", sans-serif;
 }
 body {
-    background-color: #a91923;
+    background-color: #10002b;
     background-image: url(../img/baixados.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 47em;
+    background-attachment: fixed;
 }
 .container-create {
     background-color:rgba(255, 255, 255, 0.1);
