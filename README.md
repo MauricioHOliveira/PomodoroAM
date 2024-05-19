@@ -39,6 +39,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 Meu pomodoro https://pomodoro-am.vercel.app/
 
-![alt text](<Captura de tela 2024-05-19 121745.png>)
+![alt text](./img/Pomodoro.png)
 
 Site baseado no Pomodoro.io, Não esta completo 100%, mas ja e posivel ver o temporizador, e anotar suas tarefas!!
