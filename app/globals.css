@@ -6,13 +6,13 @@
 }
 body {
   background-color: #10002b;
-  background-image: url(../img/baixados.jpg);
+  background-image: url(../img/Background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
 }
 .container {
-  background-color: rgba(255, 255, 255, 0.1);
+  background-color: rgba(255, 255, 255, 0.2);
   width: min(90%, 500px);
   position: absolute;
   transform: translate(-50%, -50%);
@@ -134,7 +134,7 @@ button {
 }
 
 .tasks-container {
-  background-color: rgba(255, 255, 255, 0.1);
+  background-color: rgba(255, 255, 255, 0.2);
   width: min(90%, 600px);
   position: absolute;
   transform: translate(-50%, -50%);
